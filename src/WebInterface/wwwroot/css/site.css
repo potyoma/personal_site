@@ -7,6 +7,13 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+/* Font */
+@font-face {
+  font-family: "Montserrat";
+  src: url("../lib/Montserrat-Regular.ttf") format("ttf");
+}
+
+
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
@@ -28,6 +35,7 @@ a {
 -------------------------------------------------- */
 html {
   font-size: 14px;
+  font-family: Montserrat;
 }
 @media (min-width: 768px) {
   html {
