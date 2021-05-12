@@ -1,11 +1,13 @@
-﻿namespace Models.DataModels
+﻿using System;
+
+namespace Models.DataModels
 {
     public class Tag : IEntity
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string Name { get; set; }
-        
+
         // Foreign
-        public int PostId { get; set; }
+        public Guid PostId { get; set; }
     }
 }

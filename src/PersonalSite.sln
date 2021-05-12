@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsiteCms", "WebsiteCms\We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebInterface", "WebInterface\WebInterface.csproj", "{139DBA35-42B8-4739-911A-1053F47A93D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubConnect", "GithubConnect\GithubConnect.csproj", "{CA017850-7FB7-42FD-9995-55BF7BADCE08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,17 @@ Global
 		{139DBA35-42B8-4739-911A-1053F47A93D1}.Release|x64.Build.0 = Release|Any CPU
 		{139DBA35-42B8-4739-911A-1053F47A93D1}.Release|x86.ActiveCfg = Release|Any CPU
 		{139DBA35-42B8-4739-911A-1053F47A93D1}.Release|x86.Build.0 = Release|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Debug|x64.Build.0 = Debug|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Debug|x86.Build.0 = Debug|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Release|x64.ActiveCfg = Release|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Release|x64.Build.0 = Release|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Release|x86.ActiveCfg = Release|Any CPU
+		{CA017850-7FB7-42FD-9995-55BF7BADCE08}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

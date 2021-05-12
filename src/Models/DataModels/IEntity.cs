@@ -1,8 +1,10 @@
-﻿namespace Models.DataModels
+﻿using System;
+
+namespace Models.DataModels
 {
     public interface IEntity
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
+        Guid Id { get; set; }
+        string Name { get; set; }
     }
 }
