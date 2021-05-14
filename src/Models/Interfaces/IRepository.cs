@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Models.DataModels;
 
-namespace DataAccess.Repositories
+namespace Models.Interfaces
 {
     public interface IRepository
     {
